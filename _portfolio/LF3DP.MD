@@ -38,6 +38,16 @@ The mechanical structure was modeled in CAD and designed around the syringe, act
 The pump incorporates an Arduino-based control system along with user inputs and electronics for controlling the actuator.
 
 # CAD Model
+<iframe
+  src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a69affb0764a02b7?mode=embed"
+  width="100%"
+  height="600"
+  allowfullscreen="true"
+  webkitallowfullscreen="true"
+  mozallowfullscreen="true"
+  frameborder="0">
+</iframe>
+
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
