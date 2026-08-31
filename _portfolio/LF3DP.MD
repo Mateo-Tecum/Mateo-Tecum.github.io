@@ -13,10 +13,6 @@ gallery:
     image_path: /assets/img/sp_setup.jpeg
     alt: "Syringe pump assembly"
 
-  - url: /assets/img/sp_wiring.jpeg
-    image_path: /assets/img/sp_wiring.jpeg
-    alt: "Syringe pump electronics and wiring"
-
   - url: /assets/img/sp_features.jpeg
     image_path: /assets/img/sp_features.jpeg
     alt: "Syringe pump features"
