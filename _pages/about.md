@@ -18,4 +18,4 @@ Matt can soon operate a number of different computer controlled (CNC) fabricatio
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
 
-<img src="/assets/img/headshot.jpeg" alt="Mateo Tecum" style="width:200px;"/>
+<img src="/assets/img/headshot.jpeg" alt="Mateo Tecum" style="width:200px; border-radius:50%;"/>
