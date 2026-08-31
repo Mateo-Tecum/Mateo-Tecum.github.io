@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Mateo Tecum"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,18 +8,18 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Matt Tecum is an engineer with a passion in programming, robots, and climbing. His area of expertise is 3D printing."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    title: "Syringe Pump"
+    excerpt: "Built for digital fabricating course."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Robot Dog"
+    excerpt: "A custom printed robot dog run with hobby servos and sensors."
   - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
+    title: "Printing"
     excerpt: "Multimaterial printing. "
 ---
 
