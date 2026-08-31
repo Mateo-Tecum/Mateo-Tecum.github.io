@@ -2,14 +2,14 @@
 title: "Robot dog"
 excerpt: "This custom 3d printed dog runs on a mechanical tail that is driven by a servo motor. It is run by an arduino nano"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/robot_dog_header.jpeg
+  teaser: /assets/img/robot_dog_header.jpeg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/robot_dog_header.jpg
+  - url: /assets/img/robot_dog_header.jpeg
+    image_path: assets/img/robot_dog_header.jpeg
     alt: "placeholder image 1"
-  - url: /assets/img/robot_dog_1.jpg
-    image_path: assets/img/robot_dog_1.jpg
+  - url: /assets/img/robot_dog_1.jpeg
+    image_path: assets/img/robot_dog_1.jpeg
     alt: "placeholder image 2"
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
