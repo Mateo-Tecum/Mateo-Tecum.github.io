@@ -1,45 +1,39 @@
 ---
 title: "Syringe Pump"
-excerpt: "Arduino-controlled syringe pump with adjustable flow rate and custom 3D-printed components."
+excerpt: "A functional syringe pump with controllable flow rate made with custom 3d printed parts"
 header:
+  image: /assets/img/syringe_pump.jpeg
   teaser: /assets/img/syringe_pump.jpeg
-  overlay_image: /assets/img/syringe_pump.jpeg
-permalink: /portfolio/syringe-pump/
+gallery:
+  - url: /assets/img/syringe_pump.jpeg
+    image_path: /assets/img/syringe_pump.jpeg
+    alt: "Completed syringe pump"
+
+  - url: /assets/img/sp_setup.jpeg
+    image_path: /assets/img/sp_setup.jpeg
+    alt: "Syringe pump assembly"
+
+  - url: /assets/img/sp_features.jpeg
+    image_path: /assets/img/sp_features.jpeg
+    alt: "Syringe pump features"
+   
 ---
 
-## Overview
+## Syringe Pump
 
-I designed and built a functional syringe pump capable of producing a controllable flow rate using an Arduino-based control system.
+I designed and fabricated a custom syringe pump as part of a digital fabrication project.
 
-The system uses a motor-driven linear actuator to advance the syringe plunger. Custom components were designed in CAD and manufactured using 3D printing.
+The system combines mechanical design, electronics, embedded control, and fabricated components to produce controlled linear motion of a syringe plunger.
 
-## Design
+### Design
 
-The mechanical assembly included:
+The mechanical structure was modeled in CAD and designed around the syringe, actuator, and supporting components.
 
-- Custom syringe mounting components
-- Motor mount
-- Lead screw / threaded rod drive system
-- Shaft coupling
-- 3D-printed structural components
+### Electronics
 
-## Electronics and Controls
+The pump incorporates an Arduino-based control system along with user inputs and electronics for controlling the actuator.
 
-The pump was controlled using an Arduino and included:
+# CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a408db1211465ff366?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-- Adjustable motor speed
-- Potentiometer input
-- Display interface
-- Motor control electronics
-
-## Assembly
-
-![Syringe pump assembly](/assets/img/sp_setup.jpeg)
-
-## Electronics
-
-![Syringe pump wiring](/assets/img/sp_wiring.jpeg)
-
-## Final Design
-
-![Completed syringe pump](/assets/img/syringe_pump.jpeg)
+{% include gallery caption="Large Format 3D Printer Gallery" %}
