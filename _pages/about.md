@@ -1,6 +1,4 @@
 
-title: "About Mateo Tecum"
-
 # About Me
 
 I'm a Mechanical Engineering student at Vanderbilt University interested in
