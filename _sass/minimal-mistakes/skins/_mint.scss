@@ -8,14 +8,30 @@ $text-color: #40514e !default;
 $muted-text-color: #40514e !default;
 $primary-color: #11999e !default;
 $border-color: mix(#fff, #40514e, 75%) !default;
-$footer-background-color: #30e3ca !default;
+
+/* Dark green footer */
+$footer-background-color: #123524 !default;
+
 $link-color: #11999e !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
+
+/* Footer */
 .page__footer {
-  color: #fff !important; // override
+  color: #fff !important;
+  background-color: #123524 !important;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  color: #fff !important;
+}
+
+.page__footer-follow a,
+.page__footer-copyright a {
+  color: #fff !important;
 }
 
 .page__footer-follow .social-icons i,
@@ -23,10 +39,47 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   color: inherit;
 }
 
+
+/* Homepage project images */
+.feature__item img {
+  width: 100% !important;
+  height: 250px !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
+
+
+/* Portfolio page project images */
+.archive__item-teaser img,
+.grid__item .archive__item-teaser img {
+  width: 100% !important;
+  height: 220px !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
+
+
+/* Keep portfolio cards arranged vertically:
+   image on top, then title and description */
+.grid__item .archive__item {
+  display: block !important;
+}
+
+.grid__item .archive__item-teaser {
+  width: 100% !important;
+  display: block !important;
+  margin-bottom: 0.75rem !important;
+}
+
+.grid__item .archive__item-title {
+  margin-top: 0.5rem !important;
+}
+
+
+/* Slight rounding on project images */
 .feature__item img,
 .archive__item-teaser img {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  object-position: center center;
+  border-radius: 4px;
 }
