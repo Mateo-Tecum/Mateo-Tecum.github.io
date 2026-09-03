@@ -3,15 +3,15 @@ title: "Bellan Lab Research"
 excerpt: "Experimental calibration, prototyping, and data analysis for an iPSC-derived neurovascular research model."
 header:
   image: /assets/img/present-research.jpeg
-  teaser: /assets/img/research-poster.jpeg
+  teaser: /assets/img/research-poster.png
 
 gallery:
   - url: /assets/img/present-research.jpeg
     image_path: /assets/img/present-research.jpeg
     alt: "Presenting biomedical engineering research"
 
-  - url: /assets/img/research-poster.jpeg
-    image_path: /assets/img/research-poster.jpeg
+  - url: /assets/img/research-poster.png
+    image_path: /assets/img/research-poster.png
     alt: "Microinjector calibration research poster"
 
   - url: /assets/img/research2.jpeg
