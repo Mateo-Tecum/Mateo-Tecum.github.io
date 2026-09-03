@@ -10,17 +10,29 @@ header:
       url: "/portfolio/"
 excerpt: "Matt Tecum is an engineer with a passion in programming, robots, and climbing. His area of expertise is 3D printing."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
+  - image_path: /assets/img/syringe_pump.jpeg
+    alt: "Custom syringe pump"
     title: "Syringe Pump"
-    excerpt: "Built for digital fabricating course."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
+    excerpt: "Arduino-controlled syringe pump designed with custom 3D-printed components."
+    url: "/portfolio/syringe-pump/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/img/robot_dog_header.jpeg
+    alt: "Quadruped robot dog"
     title: "Robot Dog"
-    excerpt: "A custom printed robot dog run with hobby servos and sensors."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Printing"
-    excerpt: "Multimaterial printing. "
+    excerpt: "Four-legged robotic platform designed in SolidWorks and controlled using Arduino."
+    url: "/portfolio/robot-dog/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/img/research2.jpeg
+    alt: "Engineering research"
+    title: "Engineering Research"
+    excerpt: "Mechanical engineering and biomedical research involving prototyping, MATLAB, and experimental systems."
+    url: "/portfolio/research/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
