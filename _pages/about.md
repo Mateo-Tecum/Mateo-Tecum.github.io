@@ -1,5 +1,4 @@
 
-# About Me
 
 I'm a Mechanical Engineering student at Vanderbilt University interested in
 mechanical design, robotics, aerospace, manufacturing, and hands-on engineering.
