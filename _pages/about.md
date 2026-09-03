@@ -50,3 +50,4 @@ Expected Graduation: May 2028
 Outside of engineering, I spend much of my time rock climbing
 
 <img src="/assets/img/headshot.jpeg" alt="Mateo Tecum" style="width:200px; border-radius:50%;"/>
+<img src="/assets/img/climbing.jpeg" alt="Mateo Tecum" style="width:200px; border-radius:50%;"/>
