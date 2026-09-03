@@ -1,7 +1,5 @@
----
+
 title: "About Mateo Tecum"
-permalink: /about/
----
 
 # About Me
 
