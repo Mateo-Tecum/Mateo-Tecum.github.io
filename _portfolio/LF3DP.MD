@@ -114,6 +114,6 @@ Rather than treating the microinjector as a black-box instrument, I worked to ch
 
 The calibration work was presented as part of my research at Vanderbilt.
 
-![Microinjector calibration research poster](/assets/img/research-poster.jpeg)
+![Microinjector calibration research poster](/assets/img/research-poster.png)
 
 {% include gallery caption="Research and experimental work at Vanderbilt University" %}
