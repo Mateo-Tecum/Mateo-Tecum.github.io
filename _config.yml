@@ -88,17 +88,21 @@ analytics:
     tracking_id          : # Replace this with your ID, or delete
     anonymize_ip         : true
 
-
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/headshot.jpeg"
+  name             : *name
+  avatar           : "/assets/img/headshot.jpeg"
   bio              : "An engineering student with the tism"
   location         : "Loveland, CO"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mateo-tecum-52676b380"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mateo-Tecum"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/h0tp0cket_mat"
@@ -107,13 +111,17 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mateo-tecum-52676b380"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mateo-Tecum"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/h0tp0cket_mat"
-
 
 # Reading Files
 include:
