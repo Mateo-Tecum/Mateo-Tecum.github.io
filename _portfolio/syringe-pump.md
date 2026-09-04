@@ -86,7 +86,8 @@ My portion included making the assembly and parts and engineering drawings of th
 # Arduino Code
 
 The syringe pump is controlled using an Arduino program that handles motor speed, direction, travel limits, user inputs, and flow-rate calculations.
-"/syringe_pump_code.ino"
+
+[**View the Syringe Pump Arduino Code on GitHub**](https://github.com/Mateo-Tecum/Mateo-Tecum.github.io/blob/main/syringe_pump_code.ino)
 
 ### Electronics
 
@@ -106,4 +107,5 @@ The pump incorporates an Arduino-based control system along with user inputs and
 <p style="text-align: center;">
   <em>Demonstration of the syringe pump operating under Arduino control.</em>
 </p>
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+
+{% include gallery caption="Syringe Pump Design and Assembly" %}
