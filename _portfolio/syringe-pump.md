@@ -95,4 +95,15 @@ The pump incorporates an Arduino-based control system along with user inputs and
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a408db1211465ff366?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Video Demo
+<h2>Syringe Pump Demonstration</h2>
+
+<video width="100%" controls>
+  <source src="/assets/videos/syringe_pump_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p style="text-align: center;">
+  <em>Demonstration of the syringe pump operating under Arduino control.</em>
+</p>
 {% include gallery caption="Large Format 3D Printer Gallery" %}
