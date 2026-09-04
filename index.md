@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Matt Tecum is an engineer with a passion in programming, robots, and climbing. His area of expertise is 3D printing."
+excerpt: "Mechanical Engineering student at Vanderbilt University showcasing projects in mechanical design, robotics, manufacturing, and engineering research."
 feature_row:
   - image_path: /assets/img/syringe_pump.jpeg
     alt: "Custom syringe pump"
