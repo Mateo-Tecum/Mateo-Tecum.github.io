@@ -92,7 +92,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/img/headshot.jpeg"
-  bio              : "An engineering student with the tism"
+  bio              : "An engineering student attempting to make it out"
   location         : "Loveland, CO"
   links:
     - label: "LinkedIn"
