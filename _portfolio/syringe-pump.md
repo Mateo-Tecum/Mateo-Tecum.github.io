@@ -36,7 +36,7 @@ My portion included making the assembly and parts and engineering drawings of th
   The system can be configured for different syringe sizes by changing the syringe dimensions used in the Arduino code.
 
 - **Bidirectional Motion:**  
-  Two direction controls (buttons) that allow the carriage to move forward to dispense fluid or backward to reset the syringe pump.
+  Two direction controls (the buttons) that allow the carriage to move forward to dispense fluid or backward to reset the syringe pump.
 
 - **Start/Stop Control:**  
   A dedicated button allows the user to start and stop motor motion without disconnecting power.
@@ -54,10 +54,10 @@ My portion included making the assembly and parts and engineering drawings of th
 
 | Part | Quantity |
 | --- | ---: |
-| Arduino microcontroller | 1 |
+| Arduino nano | 1 |
 | Stepper motor | 1 |
 | Stepper motor driver | 1 |
-| Lead screw / threaded rod | 1 |
+| Lead screw | 1 |
 | Flexible shaft coupling | 1 |
 | Linear guide rods | 2 |
 | Linear bearings | 2 |
@@ -66,7 +66,7 @@ My portion included making the assembly and parts and engineering drawings of th
 | Direction control buttons | 2 |
 | Syringe | 1 |
 | Power supply | 1 |
-| Breadboard / prototyping board | 1 |
+| Breadboard | 1 |
 | Jumper wires | Various |
 | Fasteners | Various |
 
@@ -82,6 +82,41 @@ My portion included making the assembly and parts and engineering drawings of th
 | Linear guide supports | 2 |
 | Syringe mounting supports | Various |
 | Electronics / control mounting components | Various |
+
+
+# Operating Instructions
+
+### 1. Install the Syringe
+Place the syringe barrel into the syringe holder and position the syringe plunger against the moving carriage. Make sure the syringe is securely mounted before operating the pump and completely parallel to the syringe pump.
+
+### 2. Configure the Syringe Size
+Before operation, enter the dimensions of the syringe being used in the Arduino code. The syringe diameter is used to calculate the cross-sectional area of the syringe and determine the estimated volumetric flow rate.
+
+The maximum actuator travel distance should also be adjusted in the code based on the usable plunger length of the syringe.
+
+### 3. Power the System
+Connect the Arduino and motor driver to their appropriate power sources.
+
+Use the **On/Off button** to enable or stop movement of the syringe pump.
+
+### 4. Adjust the Flow Rate
+Rotate the **potentiometer** to increase or decrease the speed of the stepper motor.
+
+The Arduino converts the motor speed and syringe dimensions into an estimated volumetric flow rate. The calculated flow rate is displayed through the arduino serial monitor.
+
+### 5. Select the Direction of Travel
+Two buttons are used to control the direction of the actuator:
+
+- **Forward Button:** Moves the carriage toward the syringe plunger to dispense fluid.
+- **Reverse Button:** Moves the carriage away from the syringe to retract or reposition the plunger.
+
+### 6. Limits
+The program tracks the position of the moving carriage and prevents the actuator from traveling beyond the programmed syringe length.
+
+The maximum travel distance should be updated whenever a syringe with a different usable plunger length is installed.
+
+### 7. Stop the Pump
+Press the **On/Off button** at any time to stop actuator movement. Then unplug
 
 # Arduino Code
 
