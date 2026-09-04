@@ -14,6 +14,20 @@ fabrication projects, and biomedical engineering research.
 B.E. Mechanical Engineering  
 Expected Graduation: May 2028
 
+## Work Experience
+
+**Rock Climbing Supervisor — City of Greeley**
+- Supervise climbing wall operations and reinforce proper rope and bouldering safety procedures.
+- Coach climbers on movement techniques and assist with route setting.
+
+**Undergraduate Researcher — Bellan Lab, Vanderbilt University**
+- Develop and calibrate experimental systems for iPSC-derived neurovascular research.
+- Use microscopy, MATLAB, Python, CAD, and rapid prototyping for experimental data collection and analysis.
+
+## Publications & Awards
+
+- Certified SOLIDWORKS Associate (CSWA)
+- Vanderbilt undergraduate research presentation — Microinjector Calibration for Use with iPSC-derived GABAergic Interneurons
 ## Engineering Interests
 
 - Mechanical Design
@@ -38,9 +52,7 @@ Expected Graduation: May 2028
 - Sensors and servo control
 
 **Fabrication**
-- FDM / FFF 3D Printing
-- SLA 3D Printing
-- CNC machining
+- FFF 3D Printing
 - Welding
 - Mechanical assembly
 
@@ -48,5 +60,5 @@ Expected Graduation: May 2028
 
 Outside of engineering, I spend much of my time rock climbing
 
-<img src="/assets/img/headshot.jpeg" alt="Mateo Tecum" style="width:200px; border-radius:50%;"/>
-<img src="/assets/img/climbing.jpeg" alt="Mateo Tecum" style="width:200px; border-radius:50%;"/>
+<img src="/assets/img/headshot.jpeg" alt="Mateo Tecum" style="width:200px; height:200px; object-fit:cover;"/>
+<img src="/assets/img/climbing.jpeg" alt="Mateo Tecum climbing" style="width:200px; height:200px; object-fit:cover;"/>
