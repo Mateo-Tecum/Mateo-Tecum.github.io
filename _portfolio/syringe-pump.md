@@ -99,7 +99,7 @@ The pump incorporates an Arduino-based control system along with user inputs and
 <h2>Syringe Pump Demonstration</h2>
 
 <video width="100%" controls>
-  <source src="/assets/videos/syringe_pump_demo.mp4" type="video/mp4">
+  <source src="/assets/video/syringe_pump_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
