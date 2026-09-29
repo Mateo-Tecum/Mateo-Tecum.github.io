@@ -99,6 +99,7 @@ Combining the two materials allowed each material to be used where its mechanica
 The jaw capacity was determined by the maximum opening between the two gripping surfaces while the TPU spring remained within a usable range of deformation.
 
 # Print Settings
+
 | Setting | PLA Components | TPU Center |
 |---|---:|---:|
 | Material | PLA | TPU 90A |
