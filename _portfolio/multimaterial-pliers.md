@@ -47,16 +47,15 @@ Capacity:
 # Other Print in Place Applications
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a408db1211465ff366?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028113a89bb9c3b91e974?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Video Demo
-<h2>Syringe Pump Demonstration</h2>
+# GIF
+<h2>Pliers GIF</h2>
 
 <video width="100%" controls>
-  <source src="/assets/video/syringe_pump_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+ 
 </video>
 
 <p style="text-align: center;">
-  <em>Demonstration of the syringe pump operating under Arduino control.</em>
+  <em>Demonstration of the multimaterial pliers picking up a resistor. </em>
 </p>
