@@ -121,7 +121,9 @@ The interactive CAD model can be viewed below.
 
 
 # Pliers gif
+<h2>Pliers</h2>
 
-The GIF below shows the final pliers opening and closing.
-
-![Multimaterial pliers operating](/assets/img/mmp.gif)
+<video width="640" controls autoplay loop muted playsinline>
+  <source src="/assets/img/mmp_gif.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
