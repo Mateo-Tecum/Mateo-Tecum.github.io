@@ -1,3 +1,20 @@
+title: "Pinch Flow Fractionation"
+excerpt: "PFF made more precise with ePFF on a glass slide attempting to seperate particles of two different sizes, 50 and 150 microns respectively"
+header:
+  image: /assets/img/ePFF_.jpeg
+  teaser: /assets/img/ePFF.png
+
+gallery:
+  - url: /assets/img/PFF.jpeg
+    image_path: /assets/img/PFF.jpeg
+    alt: "Presenting Microfluidics"
+
+  - url: /assets/img/PFF.png
+    image_path: /assets/img/PFF.png
+    alt: "Microfluidic device iteration 2"
+
+permalink: /portfolio/Pinch Flow Fractionation/
+---
 ## Introduction 
 Pinch flow Fractionation utilizes laminar flow of a buffer solution from one inlet and a solution containing two different sized particles from another inlet to intersect in a pinched segment.
 The pinched segment results in the particle sizes to sinter with respect to their diameter size (for spheres). This sintering combined with the pinched segment is later introduced into a broadened
