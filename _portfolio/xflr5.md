@@ -1,6 +1,7 @@
 ---
 title: "Aircraft Aerodynamic Modeling & CFD Analysis"
 excerpt: "Aerodynamic modeling of an aircraft using XFLR5 and CFD to evaluate lift, drag, pressure distribution, and overall aerodynamic performance."
+published: false
 header:
   teaser: /assets/images/aircraft-analysis/aircraft_thumbnail.jpg
 sidebar:
