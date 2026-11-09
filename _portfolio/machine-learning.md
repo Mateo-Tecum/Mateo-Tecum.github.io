@@ -1,10 +1,6 @@
 
 ---
 
-### `machine-learning-data-science.md`
-
-```md
----
 title: "Machine Learning & Data Science"
 excerpt: "Exploratory data analysis, dimensionality reduction, predictive modeling, machine learning, and model evaluation using Python."
 published: false
