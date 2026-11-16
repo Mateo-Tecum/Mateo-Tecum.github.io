@@ -7,7 +7,7 @@ My experience includes mechanical design and fabrication with Vanderbilt Motorsp
 
 I'm interested in applying these skills to aerospace and defense engineering, particularly in mechanical design, structural analysis, hardware development, and testing.
 
-<img src="/assets/img/headshot.jpeg" alt="Professional headshot" width="200">
+<img src="/assets/img/present-research.jpeg" alt="Professional headshot" width="400">
 
 ## Education
 
