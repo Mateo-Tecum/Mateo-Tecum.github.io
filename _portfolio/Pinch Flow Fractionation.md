@@ -24,6 +24,9 @@ The particles are now separated with a certain distance determined by the width 
 For this project, the concept of pinch flow fractionation is further utilized by adding an additional feature, that is the same concept of the pinched segment. We introduce another pinched segment,
 referred to as an enhanced pinch flow fractionation, causing their to be more distance from the two particle sizes. This creates an issue of optimization, as the ePFF needs to be maximized,
 without narrowing the width of the sink segment too much when maximizing the broadened section, which would lead to more resistance (not what is wanted). 
+How ePFF works:
+![PFF concept](/assets/img/epff_concept.png)
+
 What is pinch flow fractionation? How does it work? How does enhanced pinch flow further separate particles? 
 A couple of examples of involve separating tiny particles, such as antibodies that range in the micron size. 
 The use of PFF over traditional techniques like filters involve no need to change filters, which is much more difficult in this size range (10-100 microns).
@@ -48,7 +51,7 @@ Since the snake-like structure also increases displacement of the particles from
 Instructions 
 Creating the μfluidic device using resin printing involves several steps, starting with the CAD model of the channels and the mold. Once the mold is printed using resin printing (Voron 4 was used for resin printing), the mold must be washed to remove any uncured resin and then post-cured using UV light. One issue with resin printing is that residual components from the resin, including photoinitiators, can inhibit the cross-linking reaction of PDMS. Because of this, additional treatment of the mold may be necessary before casting.
 
-![Resin Mold Washing with IPA](/assets/img/PFF/IPA_washing.png)
+![Resin Mold Washing with IPA](/assets/img/PFF/IPAwashing.jpeg)
 
 
 The PDMS is then mixed with its curing agent, degassed to remove air bubbles, and poured over the printed mold. After curing, the PDMS is carefully removed from the mold, and holes are punched for the inlets and outlets. The PDMS and glass slide are then plasma-treated to allow the two surfaces to bond together, creating enclosed microfluidic channels.
