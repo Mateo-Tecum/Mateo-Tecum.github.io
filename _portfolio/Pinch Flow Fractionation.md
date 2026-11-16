@@ -41,27 +41,31 @@ For determining where to place the outlet boundaries for small and large particl
 To maximize the separation between small and large particles, the broadened section was designed to be as wide as possible, which was limited by the width of the microscope glass (25mm). Leaving room for the edges, this left the broadened with, wb, to be set to 19mm. For the enhanced broadened section, the width was attempting to make it as large as possible without shrinking the sink segment to where the resistance is too high for the sink segment. This length ended up being around 6mm. Lastly before being able to set a small dimension for the enhanced pinch width, it was necessary to track where the particles would be. Since the length off the original PFF was around 2mm, the particles set to their calculated lengths from yPFF at 2mm from the edge of the pinched segment. Calculating the yPF and adding some distance as a tolerance, the length of the enhanced pinched segment was 3.5mm. Calculating for the y ePFF, the smaller and larger particles were left with a distance of around 3.7mm apart. 
 Since the snake-like structure also increases displacement of the particles from the length of the channels, the lengths were each set to around 6mm.
 
-/assets/img/PFF/Base_profile.png
-/assets/img/PFF/DimensionsPFF.png
+![PFF CAD Model](/assets/img/PFF/Base_profile.png)
+
+![PFF Channel Dimensions](/assets/img/PFF/DimensionsPFF.png)
 
 Instructions 
-• Briefly list the most important steps for creating a μfluidic device with resin printing.  
+Creating the μfluidic device using resin printing involves several steps, starting with the CAD model of the channels and the mold. Once the mold is printed using resin printing (Voron 4 was used for resin printing), the mold must be washed to remove any uncured resin and then post-cured using UV light. One issue with resin printing is that residual components from the resin, including photoinitiators, can inhibit the cross-linking reaction of PDMS. Because of this, additional treatment of the mold may be necessary before casting.
+
+![Resin Mold Washing with IPA](/assets/img/PFF/IPA_washing.png)
+
+
+The PDMS is then mixed with its curing agent, degassed to remove air bubbles, and poured over the printed mold. After curing, the PDMS is carefully removed from the mold, and holes are punched for the inlets and outlets. The PDMS and glass slide are then plasma-treated to allow the two surfaces to bond together, creating enclosed microfluidic channels.
 
  creating the μfluidic with resin printing involves some limitations. The big one being a reaction from the photoinitiators during resin printing. With resin priting involving photoinitiators,
  these photoinitiators inhibit the cross-linking with the pdms.
  Additionally when creating the μfluidic device, the glass slide with the pdms has to be careful
 ## Discussion 
-• Why resin printing compared to other manufacturing techniques? 
-• How could your design be scaled up or modified to handle a wider range of particle 
-sizes? 
-• What factors set the lower limit on the particle size that can be separated with pinch
-flow fractionation?  
+Resin printing was chosen over other manufacturing techniques due to its ability to create small and complex geometries while allowing for multiple design iterations. Compared to traditional methods such as filament printing or powder printing, resin printing does not require a cleanroom and the design can have smaller dimensions. This makes it easier to modify the CAD model and print another mold if changes to the dimensions are necessary. The specs for resin printing work for dimensioning a model for the PDMS μfluidic device. Although when designing portions like the pinched segment, the segment was limited to the specs of the printer being around 50 microns, but including tolerances meant adding an extra 50 microns, which for particles of 50-150 microns is significant. 
+To scale up or modify the size of the particles going through the μfluidic device, two things can be done. In order to modify the size of the particles, and even further complicated and optimized model with multiple channels can be made, to accommodate lots of particle sizes. And to scale up simply creating a μfluidic device with larger pinched segment widths would allow for larger particles to fit through.
 ## Multimedia 
-o Sketch showing critical dimensions of channels (hand drawn or from CAD) 
-o Picture of Testing setup (syringe pumps, device, etc.) 
-o Picture of the mold 
-o Picture of Plasma treating process (image supplied) 
-o Picture of casted device 
+![Dimensions of ePFF model](/assets/img/PFF/DimensionsPFF.png)
+
+![Testing setup](/assets/img/PFF/IPA_washing.png)
+![Resin mold](/assets/img/PFF/Resin_Mold.png) 
+![Picture of Plasma treating process](/assets/img/PFF/IPA_washing.png)
+![Picture of casted device](/assets/img/PFF/IPA_washing.png)
  
 μfluidic VPP Project 
 o Embedded YouTube video of the device working. 
