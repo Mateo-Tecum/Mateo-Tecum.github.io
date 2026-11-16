@@ -27,9 +27,15 @@ without narrowing the width of the sink segment too much when maximizing the bro
 What is pinch flow fractionation? How does it work? How does enhanced pinch flow further separate particles? 
 A couple of examples of involve separating tiny particles, such as antibodies that range in the micron size. 
 The use of PFF over traditional techniques like filters involve no need to change filters, which is much more difficult in this size range (10-100 microns).
-• Provide at least one specific application that requires sorting small particles. Benefits of 
-PFF over traditional techniques (e.g., filters) for sorting this particle? Include at least one 
-citation from primary literature. Citation should be hyperlinked. 
+
+A possible practical application of PFF involves separating pancreatic islets cells, which are a cluster of cells responsible for regulating blood glucose through the insulin hormone release. These islets are in a large range of sizes in the micron size, and would be valuable to obtain for transplantation. In a study by Oh et al.(2022), researchers investigated the islet recovery from surgery and how the difficulties from that were from obtaining a sufficient amount of the cells for research. 
+With the use of PFF, islets could be easier to obtain by separating them into different group sizes. This is likely better than a physical filtration method as the islets are less likely to have the same issues from filtration methods. Not using filters that would clog or trap the islet cells during separation would lead to more amounts of cells being obtained for use. The study done by Nam et al.,(2010) demonstrated microfluidic devices being used to separate the islets from 50 and 250 microns. Additionally, in comparison to other applications where the sorting is important the sorting of islets is less significant, so if there is an error in sorting, then the entire PFF application would not be ruined.
+
+Citations: 
+Nam KH, Yong W, Harvat T, Adewola A, Wang S, Oberholzer J, Eddington DT. Size-based separation and collection of mouse pancreatic islets for functional analysis. Biomed Microdevices. 2010 Oct;12(5):865-74. doi: 10.1007/s10544-010-9441-2. PMID: 20549367.
+
+Oh JY, Kim YH, Lee S, Lee YN, Go HS, Hwang DW, Song KB, Lee JH, Lee W, So S, Kang E, Jun E, Shim IK, Kim SC. The Outcomes and Quality of Pancreatic Islet Cells Isolated from Surgical Specimens for Research on Diabetes Mellitus. Cells. 2022 Jul 29;11(15):2335. doi: 10.3390/cells11152335. PMID: 35954179; PMCID: PMC9367344.
+
 ## Design 
 • How did you decide where to place the outlet boundaries for small particles, large 
 particles, and buffer flow? How about for the snake-like structure? 
