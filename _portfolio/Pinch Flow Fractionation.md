@@ -8,11 +8,11 @@ header:
 
 gallery:
   - url: /assets/img/PFF.jpeg
-    image_path: /assets/img/PFF.jpeg
+    image_path: /assets/img/resin_mold.jpeg
     alt: "Presenting Microfluidics"
 
   - url: /assets/img/PFF.png
-    image_path: /assets/img/PFF.png
+    image_path: /assets/img/PFF_example.png
     alt: "Microfluidic device iteration 2"
 
 permalink: /portfolio/Pinch Flow Fractionation/
@@ -67,8 +67,9 @@ To scale up or modify the size of the particles going through the μfluidic devi
 ## Multimedia 
 ![Dimensions of ePFF model](/assets/img/PFF/DimensionsPFF.png)
 
-![Testing setup](/assets/img/PFF/IPA_washing.png)
-![Resin mold](/assets/img/PFF/Resin_Mold.png) 
+![Testing setup](/assets/img/PFF/IPAwashing.jpeg)
+<!-- will update once I have a picture of setup -->
+![Resin mold](/assets/img/PFF/resin_mold.jpeg) 
 ![Picture of Plasma treating process](/assets/img/PFF/Plasma-Treating-Image.jpg)
 ![Picture of casted device](/assets/img/PFF/PFF_example.png)
  
