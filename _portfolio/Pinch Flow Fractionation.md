@@ -68,7 +68,7 @@ To scale up or modify the size of the particles going through the μfluidic devi
 
 ![Testing setup](/assets/img/PFF/IPA_washing.png)
 ![Resin mold](/assets/img/PFF/Resin_Mold.png) 
-![Picture of Plasma treating process](/assets/img/PFF/PFF_Plasma.png)
+![Picture of Plasma treating process](/assets/img/PFF/Plasma-Treating-Image.jpg)
 ![Picture of casted device](/assets/img/PFF/PFF_example.png)
  
 μfluidic VPP Project 
