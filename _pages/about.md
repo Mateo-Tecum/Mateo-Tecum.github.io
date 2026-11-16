@@ -1,6 +1,4 @@
 
-# About Me
-
 I'm a Mechanical Engineering student at **Vanderbilt University**, pursuing a Bachelor of Engineering with an expected graduation date of May 2028. My primary interests are in aerospace engineering, mechanical design, robotics, fluid mechanics, and advanced manufacturing.
 
 I enjoy taking engineering projects from initial concepts through CAD modeling, analytical calculations, simulation, fabrication, programming, and experimental testing. I'm particularly interested in understanding how mechanical systems behave, identifying design limitations, and improving performance through analysis and physical iteration.
@@ -44,28 +42,6 @@ Expected Graduation: May 2028
 - Tutor students in Python programming, Statics, Thermodynamics, General Chemistry, and Calculus I–III.
 - Help students develop analytical problem-solving skills and understand complex mathematical and engineering concepts.
 
-## Selected Engineering Projects
-
-### Microinjector Calibration — Biomedical Research
-
-Developed and experimentally characterized a pressure-driven microinjection system. Analyzed the relationship between injection pressure, pulse duration, and fluid delivery using microscopy measurements, Python, and quantitative modeling.
-
-### Pinched Flow Fractionation — Microfluidic Device Design
-
-Designed and iterated microfluidic channel geometries intended to separate 50 µm and 150 µm particles. Applied fluid mechanics principles, hydraulic resistance calculations, CAD modeling, and additive manufacturing considerations.
-
-### Mechanical Cam Design & Motion Analysis
-
-Developed cam profiles using MATLAB App Designer and evaluated displacement, velocity, acceleration, jerk, pressure angle, and geometric constraints. Used SolidWorks for mechanical modeling and motion analysis to investigate cam-follower behavior and verify design performance.
-
-### Arduino-Controlled Syringe Pump
-
-Designed and assembled a motorized syringe pump integrating CAD-designed components, 3D printing, stepper motor control, limit switches, and Arduino programming for controlled fluid delivery.
-
-### Quadruped Robot — Mechatronics
-
-Developed an Arduino-controlled robotic platform integrating servo motors, ultrasonic sensing, user controls, and mechanical assemblies.
-
 ### Vanderbilt Motorsports — Formula SAE
 
 Contributed to mechanical design, chassis fabrication, and component development for Vanderbilt's Formula SAE racing team.
@@ -91,8 +67,6 @@ Contributed to mechanical design, chassis fabrication, and component development
 - **SolidWorks Simulation:** Structural analysis, applied loads, stress and deformation evaluation, and introductory finite element analysis (FEA)
 - **Autodesk Fusion 360:** Parametric CAD modeling, assemblies, and prototyping
 - **Mechanical Design:** Mechanisms, cams, linkages, fasteners, geometric constraints, and component integration
-- **Engineering Calculations:** Free-body diagrams, force and moment analysis, stress and strain, and factor-of-safety calculations
-- **Design for Manufacturing:** Material selection, tolerances, manufacturability, and additive manufacturing considerations
 
 ### Simulation, Modeling & Engineering Analysis
 
@@ -103,8 +77,6 @@ Contributed to mechanical design, chassis fabrication, and component development
 - **SolidWorks Motion:** Mechanism kinematics and dynamic motion studies
 - **SimScale:** Computational fluid dynamics (CFD) modeling
 - **XFLR5:** Airfoil and aerodynamic analysis
-- **System Dynamics:** Transfer functions, transient response, frequency response, and feedback control
-- **Fluid Mechanics:** Fluid flow analysis, pressure losses, hydraulic resistance, and control-volume calculations
 
 ### Programming & Software Development
 
@@ -113,9 +85,9 @@ Contributed to mechanical design, chassis fabrication, and component development
 - **Java:** Object-oriented programming and software development
 - **Arduino / C++:** Embedded programming, hardware control, and sensor integration
 - **Django:** Web application development and backend programming
-- **Git & GitHub:** Version control, project documentation, and software repositories
 - **Data Analysis:** Experimental data processing, curve fitting, statistical analysis, and graphical interpretation
 
+<!--
 ### Electronics, Controls & Mechatronics
 
 - Arduino microcontrollers and embedded systems
@@ -123,43 +95,18 @@ Contributed to mechanical design, chassis fabrication, and component development
 - Sensors, limit switches, and ultrasonic distance measurement
 - Motor drivers and electronic hardware integration
 - Optical encoders and position/velocity measurements
-- Feedback control and PID concepts
+- Feedback control and PID
 - Circuit prototyping and basic electronic troubleshooting
 - KiCad and LTspice
+-->
 
 ### Fabrication & Manufacturing
 
-- **Additive Manufacturing:** Fused Filament Fabrication (FFF/FDM), resin-based 3D printing, and design for additive manufacturing
-- **CAD-to-Prototype Development:** Design iteration, fabrication, assembly, and testing
-- **Metal Fabrication:** Welding and mechanical assembly
-- **Rapid Prototyping:** Functional prototypes, mechanical fixtures, and experimental apparatus
-- **Manufacturing Processes:** Material extrusion, vat photopolymerization, selective laser sintering, and material jetting
-- **Experimental Testing:** System calibration, measurement, data collection, and performance evaluation
-- **Mechanical Assembly:** Fasteners, hardware integration, component fitting, and mechanical troubleshooting
-
-### Research & Laboratory Techniques
-
-- Experimental design and quantitative analysis
-- Precision fluid delivery and microinjection
-- Microscopy and image-based measurements
-- Experimental calibration and uncertainty considerations
-- Technical documentation and research presentations
-- Prototype development and iterative testing
-
-## Engineering Interests
-
-- Aerospace & Defense Engineering
-- Mechanical Design & Structural Analysis
-- Robotics & Mechatronics
-- Aerodynamics & Fluid Mechanics
-- Dynamic Systems & Controls
-- Advanced Manufacturing
-- Hardware Development & Experimental Testing
+Hands-on experience with Fused Filament Fabrication (FFF/FDM), resin-based 3D printing, laser cutting, and polymer Selective Laser Sintering depowdering and post-processing (not printing..yet). Additional experience with welding, chassis fabrication, mechanical assembly, fasteners, and prototype construction using workshop equipment and tools, such as drill press and milling machine.
 
 ## Outside Engineering
 
 Outside of engineering, **rock climbing** is one of my biggest interests. I enjoy both indoor and outdoor climbing, particularly the technical problem-solving, physical challenges, and continuous progression involved in the sport.
 
-Through climbing and my experience supervising climbing operations, I've also developed an appreciation for risk management, communication, teamwork, and safety-critical decision-making.
 
 <img src="/assets/img/climbing.jpeg" alt="Outdoor rock climbing" width="350">
