@@ -2,8 +2,8 @@
 title: "Pinch Flow Fractionation"
 excerpt: "PFF made more precise with ePFF on a glass slide attempting to seperate particles of two different sizes, 50 and 150 microns respectively"
 header:
-  image: /assets/img/ePFF_.jpeg
-  teaser: /assets/img/ePFF.png
+  image: /assets/img/PFF/Base_profile.png
+  teaser: /assets/img/PFF/Base_profile.png
 
 gallery:
   - url: /assets/img/PFF.jpeg
@@ -37,11 +37,12 @@ Nam KH, Yong W, Harvat T, Adewola A, Wang S, Oberholzer J, Eddington DT. Size-ba
 Oh JY, Kim YH, Lee S, Lee YN, Go HS, Hwang DW, Song KB, Lee JH, Lee W, So S, Kang E, Jun E, Shim IK, Kim SC. The Outcomes and Quality of Pancreatic Islet Cells Isolated from Surgical Specimens for Research on Diabetes Mellitus. Cells. 2022 Jul 29;11(15):2335. doi: 10.3390/cells11152335. PMID: 35954179; PMCID: PMC9367344.
 
 ## Design 
-• How did you decide where to place the outlet boundaries for small particles, large 
-particles, and buffer flow? How about for the snake-like structure? 
-The following equations show the numbers used for optimizing the location of the smaller and larger particles. Some of the contraints involve the 19mm width, which is limited due to the size
-of the glass slide. Ideally, to maximize the distance bigger glass slides can be used to increase the width of the broadened section causing the ratio of the broad and pinched segments to be 
-greater. 
+For determining where to place the outlet boundaries for small and large particles, the readings cited helped with particle tracking when utilizing PFF and ePFF. Using these equations to calculate the displacement of the particles, then the dimensions of the snake-like structure can be defined. The outlet boundaries were determined based on the width of the 3 particles. Since the outlet channels are all controlled by syringe pumps with variable flow rates, the dimensions for these are less significant. Therefore, each outlet channel is set to equal lengths to prevent problems with clogging in the flow path due to hydraulic resistance being set from outlet channel paths (smaller length channels have higher resistance, and larger channels have lower resistance, which would be unchanged if parameterized to certain lengths), therefore the outlet channels were left alone, and the priority was creating as much distance between the particles. 
+To maximize the separation between small and large particles, the broadened section was designed to be as wide as possible, which was limited by the width of the microscope glass (25mm). Leaving room for the edges, this left the broadened with, wb, to be set to 19mm. For the enhanced broadened section, the width was attempting to make it as large as possible without shrinking the sink segment to where the resistance is too high for the sink segment. This length ended up being around 6mm. Lastly before being able to set a small dimension for the enhanced pinch width, it was necessary to track where the particles would be. Since the length off the original PFF was around 2mm, the particles set to their calculated lengths from yPFF at 2mm from the edge of the pinched segment. Calculating the yPF and adding some distance as a tolerance, the length of the enhanced pinched segment was 3.5mm. Calculating for the y ePFF, the smaller and larger particles were left with a distance of around 3.7mm apart. 
+Since the snake-like structure also increases displacement of the particles from the length of the channels, the lengths were each set to around 6mm.
+
+/assets/img/PFF/Base_profile.png
+/assets/img/PFF/DimensionsPFF.png
 
 Instructions 
 • Briefly list the most important steps for creating a μfluidic device with resin printing.  
