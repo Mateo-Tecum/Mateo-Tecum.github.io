@@ -72,7 +72,16 @@ To scale up or modify the size of the particles going through the μfluidic devi
 ![Picture of Plasma treating process](/assets/img/PFF/Plasma-Treating-Image.jpg)
 ![Picture of casted device](/assets/img/PFF/PFF_example.png)
  
-μfluidic VPP Project 
+μfluidic VPP Project
+<!--
+I will uncomment when video of demo is recorded, also I forgot to take a picture of my resin mold, which is why that is not up, apolgoies 
 o Embedded YouTube video of the device working. 
+<video width="100%" controls playsinline>
+  <source
+    src="/assets/videos/Device_Demo_ePFF.mp4"
+    type="video/mp4">
+  Your browser does not support video playback.
+</video>
 The best submissions will organize their webpage with headings, use short paragraphs (3-4 
 sentences), and embed images where they are mentioned to break up text. 
+-->>
