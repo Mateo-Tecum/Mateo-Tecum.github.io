@@ -1,6 +1,7 @@
 ---
 title: "Pinch Flow Fractionation"
-excerpt: "PFF made more precise with ePFF on a glass slide attempting to seperate particles of two different sizes, 50 and 150 microns respectively"
+
+excerpt: "Microfluidic device design for separating 50 and 150 µm particles using enhanced pinch flow fractionation."
 header:
   image: /assets/img/PFF/Base_profile.png
   teaser: /assets/img/PFF/Base_profile.png
