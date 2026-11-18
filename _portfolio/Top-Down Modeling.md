@@ -19,8 +19,6 @@ permalink: /portfolio/Top-Down-Modeling/
 ---
 ## Introduction 
 
-How ePFF works:
-![PFF concept](/assets/img/probe_holder_concept.png)
 
 Task Specifications: 
 •	Must fit both probe sizes.
@@ -32,6 +30,14 @@ o	Please see the following Fusion folder: CHBE 4200 -> Fall 2026 -> Ultrasound-P
 o	The probe shifts over time and when Ellie applies pressure.
 •	Model at least two custom holder components in context. Use the arm scan, probe models, or shared sketches to drive their geometry. In a hybrid design, you can model the other components separately.
 o	Tape looks makeshift. Ellie joked about having to tell patients that she knew what she was doing. The holder should look professional.
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a408db1211465ff366?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+![PFF concept](/assets/img/probe_holder_concept.png)
+![PFF concept](/assets/img/probe_holder_concept.png)
+![PFF concept](/assets/img/probe_holder_concept.png)
+![PFF concept](/assets/img/probe_holder_concept.png)
+![PFF concept](/assets/img/probe_holder_concept.png)
 
 <!-- Checklist
 o	Embedded CAD model
