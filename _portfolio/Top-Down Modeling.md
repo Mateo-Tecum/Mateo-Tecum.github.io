@@ -33,7 +33,7 @@ o	The probe shifts over time and when Ellie applies pressure.
 •	Model at least two custom holder components in context. Use the arm scan, probe models, or shared sketches to drive their geometry. In a hybrid design, you can model the other components separately.
 o	Tape looks makeshift. Ellie joked about having to tell patients that she knew what she was doing. The holder should look professional.
 
-<--! Checklist
+<!-- Checklist
 o	Embedded CAD model
 o	Multiple pictures of the printed model, both on its own and mounted on the plaster model with a probe in place
 o	Writeup including (>500 words):
