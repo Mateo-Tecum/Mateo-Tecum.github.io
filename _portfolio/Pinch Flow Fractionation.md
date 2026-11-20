@@ -85,4 +85,4 @@ o Embedded YouTube video of the device working.
 </video>
 The best submissions will organize their webpage with headings, use short paragraphs (3-4 
 sentences), and embed images where they are mentioned to break up text. 
--->>
+-->
